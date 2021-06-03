@@ -9,4 +9,5 @@
 > myGoal: ROAD TO FULL STACK
 
 > Education Experience: *Nordic IT School: Web-dev online*
+
 > Education Experiece:  *RSSchool JS FED Q1-2021*
