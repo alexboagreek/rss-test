@@ -1,0 +1,12 @@
+# Aleksandr Surkov
+
+> Saratov, Russia
+
+> email: olvesargreek@gmail.com
+
+> tel: +7 9539 753651
+
+> myGoal: ROAD TO FULL STACK
+
+> Education Experience: *Nordic IT School: Web-dev online*
+> Education Experiece:  *RSSchool JS FED Q1-2021*
